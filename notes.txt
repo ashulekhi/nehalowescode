@@ -1,0 +1,19 @@
+make .gitignore file 
+
+in the file mention /node_modules 
+
+now go to evennode.com copy ur git url 
+
+inside project folder 
+
+execute 
+
+git init 
+
+git remote add origin your-url
+
+git add .
+
+git commit -m "your message " 
+
+git push origin master
